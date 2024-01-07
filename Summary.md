@@ -2,13 +2,13 @@
 
 ## Use headings to create page groups like this one​
 
-* [First page’s title](page1/README.md)
-    * [Some child page](page1/page1-1.md)
-    * [Some other child page](part1/page1-2.md)
+* [O2MEET](page1/README.md)
+    * [템플릿 소개](page1/page1-1.md)
 
-* [Second page’s title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+
+* [📘O2MEET 사용법 - 사이트만들기](page2/README.md)
+    * [메인페이지](page2/page2-1.md)
+    * [메뉴브랜딩](part2/page2-2.md)
 
 ## A second-page group​
 
