@@ -1,5 +1,4 @@
-# O2MEET
-오투미트란?
+# O2MEET 이용가이드북 *
 
 [![Video Label](http://img.youtube.com/vi/Q4e_IqrTERQ?si=7DqJz2eu2J9bKeZu/0.jpg)](https://youtu.be/Q4e_IqrTERQ?si=7DqJz2eu2J9bKeZu)
 
