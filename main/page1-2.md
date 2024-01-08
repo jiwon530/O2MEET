@@ -10,7 +10,7 @@
 
 ## 전시기업 목록
 
-![O2MEET 가이드북 이미지 콘텐츠-07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a5dba35-a411-4c09-b984-b671ddd518e6/O2MEET_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%BD%98%ED%85%90%EC%B8%A0-07.png)
+![O2MEET 가이드북 이미지 콘텐츠-07.png] (https://github.com/jiwon530/O2MEET/issues/2#issue-2069413309)
 
 ## 전시기업 상세페이지
 
