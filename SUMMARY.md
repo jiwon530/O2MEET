@@ -1,9 +1,14 @@
 ‌# Summary​
 
-## Use headings to create page groups like this one​
+## 📘O2MEET 사용법
 
-* [O2MEET](main/README.md)
-    * [템플릿 소개](main/page1-1.md)
+* [템플릿소개](main/README.md)
+    * [개요 템플릿](main/page1-1.md)
+    * [전시 템플릿](main/page1-2.md)
+    * [아카이빙 템플릿](main/page1-3.md)
+    * [프로그램 템플릿](main/page1-4.md)
+    * [비즈매칭 템플릿](main/page1-5.md)
+    * [게시판 템플릿](main/page1-6.md)
 
 
 * [📘O2MEET 사용법 - 사이트만들기](page2/README.md)
