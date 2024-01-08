@@ -2,8 +2,8 @@
 
 ## Use headings to create page groups like this one​
 
-* [O2MEET](page1/README.md)
-    * [템플릿 소개](page1/page1-1.md)
+* [O2MEET](main/README.md)
+    * [템플릿 소개](main/page1-1.md)
 
 
 * [📘O2MEET 사용법 - 사이트만들기](page2/README.md)
